@@ -24,15 +24,15 @@
 
   // Other
   global.ownername = 'Mouzarella' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
+  global.owner = ['6281230786140','6281230786140','6281230786140'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6281230786140' // Owner Utama Istilahnya
   global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
   global.packname = 'Mouza_bot' // Sticker Weem
   global.author = 'Mouzarela' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
+  global.youtube = 'https://youtube.com/channel/UCdQwmFl6xbVMtZJrgdeJYTw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/dimaszoid' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/dimaas.ap_' // Ganti Sama Link Ig mu
 
