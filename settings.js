@@ -12,7 +12,7 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
